@@ -3,7 +3,7 @@ encoding                 : "utf-8"
 locale                   : "en"
 title                    : "Sitaphul"
 title_separator          : "-"
-description              : "A clean and minimal theme for writers."
+description              : "Sonia Reddy"
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
 url                      : "https://theconfused.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -11,7 +11,7 @@ baseurl                  : "/sparrow" # the subpath of your site, e.g. "/blog" l
 
 # Site Author
 author:
-  name                   : "Lingyi" # appears in the footer and atom feed
+  name                   : "Sonia Reddy" # appears in the footer and atom feed
 
 comments                 : true # set it to false to disable comments
 disqus:
